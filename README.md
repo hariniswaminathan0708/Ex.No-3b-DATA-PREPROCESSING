@@ -1,7 +1,7 @@
 # Ex.No-3b-DATA PREPROCESSING
 ## Aim
 To perform data preprocessing on a dataset using Python and Scikit-learn by handling missing values, encoding categorical data, splitting the dataset, and applying feature scaling. 
-## Procedure
+## Procedure 
     1.	Import the required Python libraries. 
     2.	Mount Google Drive and load the dataset using Pandas. 
     3.	Display the first few records of the dataset. 
